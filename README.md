@@ -28,7 +28,7 @@ The clients will be able of communicating with any implementation of the audio e
 
 The idea behind this client is to provide an emulation of the audio workflow in a modular synthesizer.
 
-![Modular](/images/basicpatch.png?raw=true "Modular")
+![Modular](/images/basicpatch.jpg?raw=true "Modular")
 
 *image source: www.synthesizers.com*
 
